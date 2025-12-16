@@ -1,0 +1,10 @@
+General:
+- Reduce app size roughly by half due to using WebP and an increased compression rate
+- Add link to statistcs about OpenStop in About menu
+- Fix minor state bug for list input question
+UI/UX:
+- Improve styling for Right-To-Left-Languages
+- Apply background to images in question details for better readability in dark mode
+- Add monochrome icon for Android and dark icon for iOS
+Localization:
+- Update existing localizations

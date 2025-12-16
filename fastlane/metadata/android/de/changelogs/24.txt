@@ -1,0 +1,10 @@
+Allgemein:
+- Reduzieren der App-Größe um die Hälfte durch WebP und erhöhter Komprimierung
+- Hinzufügen eines Links zu Statistiken über OpenStop im Menü „Über“
+- Beheben eines Fehlers bei Listen-Fragen
+UI/UX:
+- Verbesserung des Designs für Rechts-nach-Links-Sprachen
+- Hinzufügen eines Bild-Hintergrunds in Fragendetails für bessere Lesbarkeit im Dunkelmodus
+- Hinzufügen eines monochromen Icons für Android und eines dunklen Icons für iOS
+Lokalisierung:
+- Aktualisieren bestehender Lokalisierungen
