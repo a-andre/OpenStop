@@ -58,6 +58,8 @@ dependencies:
   flutter_mvvm_architecture:
     git:
       url: https://github.com/Robbendebiene/flutter-mvvm-architecture.git
+      # Temporary fix, because of breaking chances
+      ref: cdbfec0bec66614abfbd154850a735dd0b026888
   get_it: ^7.6.0
   mobx: ^2.2.0
   flutter_mobx: ^2.0.6+5
