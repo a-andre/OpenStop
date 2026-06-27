@@ -25,7 +25,7 @@ class OverpassQueryAPI {
     Duration receiveTimeout = const Duration(seconds: 30),
     String userAgent = kAppUserAgent,
     this.apiServers = const [
-      'https://overpass.kumi.systems/api/interpreter',
+      'https://overpass.private.coffee/api/interpreter',
       'https://overpass-api.de/api/interpreter',
     ],
   }) : _dio = Dio(
